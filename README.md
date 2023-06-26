@@ -56,3 +56,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishuyadav&layout=compact&theme=dark)
 ![Rishu's github stats](https://github-readme-stats.vercel.app/api?username=rishuyadav&hide=contris,issues&theme=dark) 
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Rishu_Yadav)
