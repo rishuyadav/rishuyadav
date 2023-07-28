@@ -1,7 +1,12 @@
 ## Hi👋, Rishu here!    <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/2/25/Android_robot_head.png"></img>
 
-- 🔭 I’m an Android Developer currently pursuing my undergrad in CSE from VIT,Vellore.
-- 🌱 I’m currently learning DSA.
+I'm Rishu Yadav, an Android developer with a passion for problem-solving and open-source contributions.
+
+📱 Android Development: I specialize in building innovative and user-friendly Android applications. With a strong foundation in Java/Kotlin and extensive experience with the Android SDK, I take pride in crafting efficient and robust solutions that deliver a seamless user experience.
+
+💡 Problem-Solving: Solving complex challenges is my forte. I enjoy breaking down problems, analyzing different approaches, and implementing effective solutions. I thrive in collaborative environments that encourage brainstorming and learning from others.
+
+🌐 Open Source Contributions: I'm an active contributor to the open-source community. I believe in the power of sharing knowledge and code to create a positive impact. You can find some of my open-source projects and contributions in my repositories.
    
 
 #### Tech Stack:
